@@ -33,7 +33,7 @@ Antes de começar, verifique se você tem os seguintes requisitos instalados e c
    cd backend
    npm intall
 
-# Etapa 2 - Rodar o Front-end
+## Etapa 2 - Rodar o Front-end
 
 1. Ainda no terminal.
 2. Navegue até o diretório `frontend`:
@@ -42,7 +42,7 @@ Antes de começar, verifique se você tem os seguintes requisitos instalados e c
 4. cd frontend
 5. npm run dev
 
-# Etapa 3 - Rodar o Back-end
+## Etapa 3 - Rodar o Back-end
 
 1. Ainda no terminal.
 2. Navegue até o diretório `backend`:
