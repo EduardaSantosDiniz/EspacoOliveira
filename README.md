@@ -38,17 +38,17 @@ Antes de começar, verifique se você tem os seguintes requisitos instalados e c
 1. Ainda no terminal.
 2. Navegue até o diretório `frontend`:
 
-```bash
-4. cd frontend
-5. npm run dev
+   ```bash
+   cd frontend
+   npm run dev
 
 ## Etapa 3 - Rodar o Back-end
 
 1. Ainda no terminal.
 2. Navegue até o diretório `backend`:
 
-```bash
-3. cd backend
-4. nodemon models/index.js
+   ```bash
+   cd backend
+   nodemon models/index.js
 
    
